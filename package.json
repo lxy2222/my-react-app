@@ -1,0 +1,27 @@
+{
+  "name": "my-react-app",
+  "version": "1.0.0",
+  "description": "my-react-app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxy2222/my-react-app.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "liangxiaoyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxy2222/my-react-app/issues"
+  },
+  "homepage": "https://github.com/lxy2222/my-react-app#readme"
+}
